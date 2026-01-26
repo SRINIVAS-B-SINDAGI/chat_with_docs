@@ -106,6 +106,17 @@ npm run dev
 
 ```bash
 cd backend
+
+# Create virtual env to run tests
+python -m venv venv
+
+# Activate virtual environment
+source venv/bin/activate
+
+# Install packages
+pip install -r requirements.txt 
+
+# Run tests
 pytest tests/ -v
 ```
 
