@@ -1,0 +1,19 @@
+# Introduction
+
+This is a sample document for testing the RAG system.
+
+## Section 1: Overview
+
+The RAG system uses vector embeddings to find relevant documents.
+It then uses an LLM to generate answers based on the context.
+
+## Section 2: Features
+
+Key features include:
+- Document ingestion
+- Semantic search
+- Answer generation with citations
+
+## Conclusion
+
+This concludes the sample document.

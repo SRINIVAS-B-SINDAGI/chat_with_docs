@@ -1,0 +1,24 @@
+Cricket is a bat-and-ball sport played between two teams of eleven players.
+The game originated in England and is now popular in countries such as India,
+Australia, England, Pakistan, and South Africa.
+
+There are three main formats of cricket:
+Test cricket, One Day Internationals (ODIs), and Twenty20 (T20).
+
+Test cricket is played over five days and is considered the longest and
+most traditional format of the game. Each team bats twice, and there is no
+limit on the number of overs.
+
+One Day Internationals are limited to 50 overs per team and typically last
+around eight hours. ODIs are commonly played in international tournaments
+such as the Cricket World Cup.
+
+Twenty20 cricket is the shortest format, with each team limited to 20 overs.
+T20 matches usually last about three hours and are known for aggressive
+batting and fast-paced gameplay.
+
+Major international cricket tournaments include the ICC Cricket World Cup,
+the ICC T20 World Cup, and the ICC World Test Championship.
+
+Cricket players are generally categorized as batsmen, bowlers, all-rounders,
+and wicket-keepers. Each role plays a specific part in the team's strategy.

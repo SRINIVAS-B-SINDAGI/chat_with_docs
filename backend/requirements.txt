@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+pydantic
+tiktoken
+pypdf
+sentence-transformers
+langchain-huggingface
+langchain-ollama
+langchain-groq
+python-multipart
+
+# Testing
+pytest
+pytest-asyncio
+httpx
